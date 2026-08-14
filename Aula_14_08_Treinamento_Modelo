@@ -1,0 +1,10 @@
+  Treinamento de modelo
+    -Regra do negócio: Atributos a serem avaliados 
+    -Base de dados(fonte de amostras) para o treinamento
+         -ETL: Organização de dados pré treinamento 
+          -> Pandas
+           -> Banco de Dados
+                    ->Plugins de conexão do pandas com sistema de gerencimento de banco de dados.
+              ->CSV
+             ->Padronizar a estrutura de dados a ser minerada
+    -Definir se Predição ou Previsão 
