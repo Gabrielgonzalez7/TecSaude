@@ -1,4 +1,5 @@
-O PyCaret é uma biblioteca de código aberto e de baixo código (low-code) em Python voltada para o aprendizado de máquina (machine learning). O seu principal objetivo é automatizar todo o ciclo de vida de projetos de ciência de dados, permitindo que analistas e desenvolvedores realizem experimentos complexos de forma extremamente rápida e com poucas linhas de código.
+O PyCaret é uma biblioteca de código aberto e de baixo código (low-code) em Python voltada para o aprendizado de máquina (machine learning).
+O seu principal objetivo é automatizar todo o ciclo de vida de projetos de ciência de dados, permitindo que analistas e desenvolvedores realizem experimentos complexos de forma extremamente rápida e com poucas linhas de código.
 
 Principais Módulos de Aprendizado
 O PyCaret organiza suas funcionalidades em módulos especializados para diferentes tipos de problemas analíticos:
