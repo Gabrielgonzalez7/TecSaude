@@ -19,4 +19,12 @@ Comparação Rápida de Modelos: Permite treinar e avaliar dezenas de algoritmos
 Otimização de Hiperparâmetros: Realiza a busca automática pelos melhores parâmetros para refinar a performance do modelo escolhido.
 
 
+**** UTILIZAÇÃO ***
+-> Sua utilização se torna extremamente valiosa em cenários onde a agilidade, a produtividade e a prototipagem rápida são fundamentais.
 
+Cenários Ideais para o Uso do PyCaret
+Prototipagem Rápida e Provas de Conceito (PoCs): Ideal quando você precisa validar rapidamente se um problema de negócio pode ser resolvido com Machine Learning antes de investir semanas de desenvolvimento.
+
+Criação de Linhas de Base (Baselines): Perfeito para gerar um modelo inicial robusto em minutos, servindo como padrão de desempenho mínimo para comparar com abordagens mais complexas.
+
+Exploração Inicial de Dados: Excelente para descobrir qual família de algoritmos se adapta melhor ao seu conjunto de dados sem a necessidade de escrever dezenas de linhas de código repetitivo.
